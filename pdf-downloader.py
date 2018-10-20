@@ -1,3 +1,4 @@
+!#/usr/bin/pyhon
 from bs4 import BeautifulSoup
 import urllib, urllib2, os
 from progress.bar import Bar

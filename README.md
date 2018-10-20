@@ -15,3 +15,14 @@ Scan and download all .PDF files from digitalwhisper.co.il
   * urllib
   * urllib2
   * progress
+  
+## Installing ##
+```sh
+git clone https://github.com/ronbenbenishti/PDF-downloader.git
+```
+
+## How to use ##
+```sh
+chmod +x pdf-downloader.py
+./pdf-downloader
+```

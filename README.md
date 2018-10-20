@@ -1,5 +1,5 @@
 # PDF-downloader
-Scan and download all .PDF files from digitalwhisper . co . il
+Scan and download all .PDF files from digitalwhisper.co.il
 
 ## Features: ##
 * Dealing with duplicate files

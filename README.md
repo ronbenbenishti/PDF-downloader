@@ -6,3 +6,12 @@ Scan and download all .PDF files from digitalwhisper.co.il
 * Progress bar
 * All links are saved in *'links.txt'* file.
 * Verification: Downloaded file size matches the original file size
+
+
+## Prerequisites: ##
+* python 2.7
+* Modules in use:
+  * BeautifulSoup (bs4)
+  * urllib
+  * urllib2
+  * progress
